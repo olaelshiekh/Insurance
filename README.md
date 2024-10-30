@@ -1,6 +1,3 @@
-Here's the full README text for you to use:
-
----
 
 # Smoking Detection Analysis
 
@@ -21,7 +18,7 @@ This project provides an exploratory data analysis (EDA) on smoking detection us
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/smoking-detection-analysis.git
+    git clone https://github.com/olaelshiekh/Insurance.git
     cd smoking-detection-analysis
     ```
 

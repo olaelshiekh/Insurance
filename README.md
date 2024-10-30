@@ -47,6 +47,3 @@ The analysis focuses on exploring various factors such as age, BMI, and charges 
 - **Feature Engineering**: Explore additional features to improve prediction accuracy.
 - **Extended Datasets**: Include broader datasets to enhance model robustness.
 
----
-
-Copy and paste this into your README file on GitHub, and don't forget to replace `your-username` with your actual GitHub username in the cloning instructions. The image provided can be uploaded alongside this README file to complete the presentation.

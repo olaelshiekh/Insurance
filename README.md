@@ -4,7 +4,7 @@ Here's the full README text for you to use:
 
 # Smoking Detection Analysis
 
-![Smoking Detection Analysis](A_visual_representation_of_smoking_detection_analy.png)
+![Smoking Detection Analysis]([A_visual_representation_of_smoking_detection_analy.png](https://github.com/olaelshiekh/Insurance/blob/main/InsuranceImage.webp))
 
 ## Overview
 
